@@ -38,5 +38,3 @@ This project analyzes customer churn behavior in a telecom company to identify k
 <img width="1171" height="659" alt="churn_dashboard" src="https://github.com/user-attachments/assets/43354add-1e3a-4c59-9a8b-a5091ea8b7ed" />
 
 
-## 🔹 Dashboard Preview
-![Dashboard](images/dashboard.png)
